@@ -8,7 +8,7 @@
     <artifactId>testNGProject</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <testjunit-version>4.13</testjunit-version>
+        <testjunit-version>4.13.1</testjunit-version>
     </properties>
 
     <profiles>
